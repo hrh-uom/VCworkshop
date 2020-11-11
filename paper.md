@@ -16,3 +16,5 @@ AN EXPERIMENTAL BIT ON A NEW BRANCH
 
 another bit on a new branch
 I'm making some changes here, so I can push them to github at 2.18pm
+
+Here are some new figures, for vc_2
